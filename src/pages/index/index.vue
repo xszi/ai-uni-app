@@ -16,7 +16,7 @@ import Hello from '@/components/hello/index.vue'
 
 const pages = reactive([
   {
-    title: 'Pinia Demo',
+    title: 'Pinia 示例',
     url: '/pages/pinia/index'
   },
   {

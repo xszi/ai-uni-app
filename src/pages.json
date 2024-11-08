@@ -16,7 +16,7 @@
     {
       "path": "pages/axios/index",
       "style": {
-        "navigationBarTitleText": "Axios（网络请求示例）"
+        "navigationBarTitleText": "AIGC图像风格化"
       }
     },
     {
@@ -31,10 +31,5 @@
     "navigationBarTitleText": "uni-app",
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
-  },
-  "easycom": {
-    "custom": {
-      "^u-(.*)": "vk-uview-ui/components/u-$1/u-$1.vue"
-    }
   }
 }

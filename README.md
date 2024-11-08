@@ -22,7 +22,6 @@ npx degit atqq/uni-app-template#main my-uni-vue3-project
 * [x] [Pinia](https://pinia.vuejs.org/) - replace vuex
 * [x] [Axios](https://github.com/axios/axios)
 * UI/组件库
-  * [uView](https://vkuviewdoc.fsq.pub/) - vk-uview-ui
   * [uni-ui](https://github.com/dcloudio/uni-ui) - 待接入
 ### Dev
 * [x] [Vite](https://github.com/vitejs/vite)
